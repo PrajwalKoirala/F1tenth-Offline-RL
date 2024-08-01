@@ -1,0 +1,8 @@
+training_data/training_data_fixed_barcelona.csv filter=lfs diff=lfs merge=lfs -text
+training_data/training_data_mixed_AuBaTr.csv filter=lfs diff=lfs merge=lfs -text
+offline_models/xgb/trained_in_AuBaTr_20000_mixed_20240124-142540 filter=lfs diff=lfs merge=lfs -text
+training_data/training_data_fixed_austria.csv filter=lfs diff=lfs merge=lfs -text
+training_data/training_data_fixed_treitlstrassev2.csv filter=lfs diff=lfs merge=lfs -text
+offline_models/xgb/trained_in_austria_10000_fixed_austria_20240108-185355 filter=lfs diff=lfs merge=lfs -text
+offline_models/xgb/trained_in_austria_10000_fixed_austria_20240131-202438 filter=lfs diff=lfs merge=lfs -text
+offline_models/xgb/trained_in_barcelona_15000_fixed_barcelona_20240118-212238 filter=lfs diff=lfs merge=lfs -text
