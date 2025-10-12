@@ -1,0 +1,6 @@
+stable_baselines3==2.1.0
+scikit-learn==1.3.2
+xgboost==2.0.2
+-e git+https://github.com/prajwalkoirala/racecar_gym.git#egg=racecar_gym
+accelerate==0.26.1
+transformers==4.36.2
